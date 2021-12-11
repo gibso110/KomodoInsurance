@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\DeveloperRepo\DeveloperRepo\obj\Debug\DeveloperRepo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperRepo\DeveloperRepo\obj\Debug\DeveloperRepo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperRepo\DeveloperRepo\bin\Debug\DeveloperRepo.dll
+C:\Users\User\source\repos\DeveloperRepo\DeveloperRepo\bin\Debug\DeveloperRepo.pdb
+C:\Users\User\source\repos\DeveloperRepo\DeveloperRepo\obj\Debug\DeveloperRepo.dll
+C:\Users\User\source\repos\DeveloperRepo\DeveloperRepo\obj\Debug\DeveloperRepo.pdb
