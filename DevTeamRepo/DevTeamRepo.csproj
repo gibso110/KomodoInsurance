@@ -44,5 +44,11 @@
     <Compile Include="DevTeam.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DeveloperRepo\DeveloperRepo.csproj">
+      <Project>{677e101a-bb3f-4c72-a1d9-8872051decf1}</Project>
+      <Name>DeveloperRepo</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

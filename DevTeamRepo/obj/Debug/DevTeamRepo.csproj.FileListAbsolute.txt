@@ -4,3 +4,6 @@ C:\Users\User\source\repos\DeveloperRepo\DevTeamRepo\obj\Debug\DevTeamRepo.cspro
 C:\Users\User\source\repos\DeveloperRepo\DevTeamRepo\obj\Debug\DevTeamRepo.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\DeveloperRepo\DevTeamRepo\obj\Debug\DevTeamRepo.dll
 C:\Users\User\source\repos\DeveloperRepo\DevTeamRepo\obj\Debug\DevTeamRepo.pdb
+C:\Users\User\source\repos\DeveloperRepo\DevTeamRepo\bin\Debug\DeveloperRepo.dll
+C:\Users\User\source\repos\DeveloperRepo\DevTeamRepo\bin\Debug\DeveloperRepo.pdb
+C:\Users\User\source\repos\DeveloperRepo\DevTeamRepo\obj\Debug\DevTeamRepo.csproj.CopyComplete
